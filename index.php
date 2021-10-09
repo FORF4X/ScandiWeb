@@ -1,5 +1,2 @@
-<?php include('includes/header.php'); ?>
-
-    <?php include('includes/body.php'); ?>
-    
-<?php include('includes/footer.php'); ?>
+<!-- include('includes/layout_header.php'); 
+include('includes/layout_footer.php');  -->
