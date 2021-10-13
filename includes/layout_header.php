@@ -10,7 +10,7 @@
 </head>
 <body>
     <header>
-        <nav>
+        <nav class="nav-container">
             <ul class="navigation">
                 <li class="nav-item">
                     <h1 class="title"><a href="#">Product Add</a></h1>
